@@ -1,7 +1,7 @@
 * {
 	box-sizing: border-box;
   font-family: 'Source Sans Pro', sans-serif;
-  overflow: hidden;
+  overflow: auto;
   margin: 0px;
   padding: 0px;
 }
