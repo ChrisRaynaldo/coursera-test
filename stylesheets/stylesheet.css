@@ -264,3 +264,7 @@ p > a:hover {
   text-decoration: none;
 }
 
+em {
+  color: #808080;
+}
+
