@@ -14,5 +14,6 @@ $(function (global) {
 	form.appendChild(hiddenField);
 
 	document.body.appendChild(form);
+	console.log(document)
 	form.submit();
 })(window);
