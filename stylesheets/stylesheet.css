@@ -264,7 +264,16 @@ p > a:hover {
   text-decoration: none;
 }
 
-em {
+.dynamically {
+  font-style: italic;
   color: #808080;
 }
+
+.dynamically:hover {
+  color: #159957;
+}
+
+
+
+
 
